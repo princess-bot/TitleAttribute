@@ -1,0 +1,8 @@
+
+""""""""""""""" What does a title attribute do? """""""""""""""" 
+                         (╯°□°）╯︵ ┻━┻    
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The title attribute specifies extra information about an element.
+The information is most often shown as a tooltip text when the 
+mouse moves over the element.
+`````````````````````````````````````````````````````````````````
